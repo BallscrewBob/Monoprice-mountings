@@ -21,3 +21,5 @@ Ensure the carriage can move freely
 Power up the printer and use the MOVE buttons to check that it moves as it should.
 Minor adjustments may be needed to the lower wheel of the carriage and or belt tension.
 
+![20220103_023348](https://user-images.githubusercontent.com/8212730/147952041-e783bfff-e457-4a85-8aa6-8ca8e96ceba3.jpg)
+![20220103_023315](https://user-images.githubusercontent.com/8212730/147952049-cbbeef63-2ab7-4776-8e2a-f34edf1df58c.jpg)
